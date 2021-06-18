@@ -1,0 +1,38 @@
+USE codeup_test_db;
+
+INSERT INTO albums (artist_name, album_name, release_date, sales_number, genre)
+VALUES ('Michael Jackson','Thriller', '1982-01-01',47300000,'Pop, Funk, Rock'),
+       ('AC/DC', 'Back in Black','1980-01-01', 29400000, 'Hard Rock'),
+       ('Meat Loaf', 'Bat Out of Hell', '1977-01-01', 21700000, 'Hard Rock, Progressive Rock'),
+       ('Pink Floyd', 'The Dark Side of the Moon', '1973-01-01', 24400000, 'Progressive Rock'),
+       ('Whitney Houston/Various Artists', 'The Bodyguard', '1992-01-01', 32400000, 'R&B, Soul, Pop, Soundtrack'),
+       ('Eagles', 'Their Greatest Hits (1971-1975)', '1976-01-01', 41200000, 'Country, Soft Rock'),
+       ('Bee Gees/Various Artists', 'Saturday Night Fever', '1977-01-01', 21600000, 'Disco'),
+       ('Fleetwood Mac', 'Rumours', '1977-01-01', 27900000, 'Soft Rock'),
+       ('Shania Twain', 'Come On Over', '1997-01-01', 29600000, 'Country, Pop'),
+       ('Various Artists', 'Grease: The Original Soundtrack', '1978-01-01', 14400000, 'Rock and Roll'),
+       ('Led Zeppelin', 'Led Zeppelin IV', '1971-01-01', 29000000, 'Hard Rock, Heavy Metal'),
+       ('Michael Jackson', 'Bad', '1987-01-01', 22200000, 'Pop, R&B, Funk, Rock'),
+       ('Alanis Morissette', 'Jagged Little Pill', '1995-01-01', 24400000,	'Alternative Rock'),
+       ('Michael Jackson', 'Dangerous', '1991-01-01', 17000000, 'New Jack Swing, R&B, Pop'),
+       ('Celine Dion', 'Falling into You', '1996-01-01', 21200000,	'Pop, Soft Rock'),
+       ('Eagles', 'Hotel California', '1976-01-01', 31500000, 'Soft Rock'),
+       ('The Beatles', 'Sgt. Pepper''s Lonely Hearts Club Band', '1967-01-01', 18200000, 'Rock'),
+       ('Various artists''', 'Dirty Dancing', '1987-01-01', 17900000, 'Pop, Rock, R&B'),
+       ('Adele', '21', '2011-01-01', 30800000,	'Pop, Soul'),
+       ('Madonna', 'The Immaculate Collection', '1990-01-01', 19500000, 'Pop, Dance'),
+       ('Celine Dion', 'Let''s Talk About Love', '1997-01-01', 19300000, 'Pop, Soft Rock'),
+       ('Metallica', 'Metallica', '1991-01-01', 25200000, 'Heavy metal'),
+       ('The Beatles', '1', '2000-01-01', 23400000, 'Rock'),
+       ('The Beatles', 'Abbey Road', '1969-01-01', 14400000, 'Rock'),
+       ('ABBA', 'Gold: Greatest Hits', '1992-01-01', 23000000,	'Pop, Disco'),
+       ('Bruce Springsteen', 'Born in the U.S.A.', '1984-01-01', 19600000,	'Heartland Rock'),
+       ('Pink Floyd', 'The Wall', '1979-01-01', 18700000, 'Progressive Rock'),
+       ('James Horner', 'Titanic: Music from the Motion Picture', '1997-01-01', 18100000, 'Film Score'),
+       ('Dire Straits', 'Brothers in Arms', '1985-01-01', 17700000, 'Blues Rock, Soft Rock'),
+       ('Nirvana', 'Nevermind', '1991-01-01', 16700000, 'Grunge, Alternative Rock'),
+       ('Santana', 'Supernatural', '1999-01-01', 20500000,	'Latin Rock'),
+       ('Guns N'' Roses''', 'Appetite for Destruction', '1987-01-01', 21900000, 'Hard rock'),
+       ('Elton John', 'Goodbye Yellow Brick Road', '1973-01-01', 8500000, 'Rock, Pop Rock');
+
+
