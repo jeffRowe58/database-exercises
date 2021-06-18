@@ -10,3 +10,5 @@ CREATE TABLE IF NOT EXISTS albums(
     genre VARCHAR (30) NOT NULL,
     PRIMARY KEY (id)
 );
+
+SOURCE /Users/jeffreyrowe/IdeaProjects/database-exercises/albums_seeder.sql;

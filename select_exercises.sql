@@ -16,4 +16,4 @@ SELECT 'Albums with less than 20 million sold' AS '';
 SELECT * FROM albums WHERE sales_number < 20;
 
 SELECT 'Albums that have Rock as a genre' AS '';
-SELECT * FROM albums WHERE genre LIKE '%Rock%';
+SELECT * FROM albums WHERE genre LIKE '%rock%';

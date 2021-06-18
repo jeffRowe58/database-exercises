@@ -1,5 +1,7 @@
 USE codeup_test_db;
 
+
+
 SELECT 'All albums' AS '';
 SELECT * FROM albums;
 UPDATE albums SET sales_number = sales_number * 10;
@@ -17,6 +19,8 @@ SELECT * FROM albums WHERE artist_name = 'Michael Jackson';
 UPDATE albums SET artist_name = 'Peter Jackson' WHERE artist_name = 'Michael Jackson';
 SELECT 'Peter or Michael... Still a Jackson' AS '';
 SELECT * FROM albums WHERE artist_name = 'Peter Jackson';
+
+
 
 
 

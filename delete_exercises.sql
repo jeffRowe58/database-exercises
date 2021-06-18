@@ -16,3 +16,4 @@ DELETE  FROM albums WHERE artist_name LIKE '%Whitney Houston%';
 
 SELECT 'Shaazaam! list updated' AS '';
 SELECT * FROM albums;
+

@@ -27,8 +27,8 @@ VALUES ('Michael Jackson','Thriller', '1982',47.3,'Pop, Funk, Rock'),
        ('Metallica', 'Metallica', '1991', 25.2, 'Heavy metal'),
        ('The Beatles', '1', '2000', 23.4, 'Rock'),
        ('The Beatles', 'Abbey Road', '1969', 14.4, 'Rock'),
-       ('ABBA', 'Gold: Greatest Hits', '1992', 23.0,	'Pop, Disco'),
-       ('Bruce Springsteen', 'Born in the U.S.A.', '1984', 19.6,	'Heartland Rock'),
+       ('ABBA', 'Gold: Greatest Hits', '1992', 23.0, 'Pop, Disco'),
+       ('Bruce Springsteen', 'Born in the U.S.A.', '1984', 19.6, 'Heartland Rock'),
        ('Pink Floyd', 'The Wall', '1979', 18.7, 'Progressive Rock'),
        ('James Horner', 'Titanic: Music from the Motion Picture', '1997', 18.1, 'Film Score'),
        ('Dire Straits', 'Brothers in Arms', '1985', 17.7, 'Blues Rock, Soft Rock'),
@@ -36,5 +36,7 @@ VALUES ('Michael Jackson','Thriller', '1982',47.3,'Pop, Funk, Rock'),
        ('Santana', 'Supernatural', '1999', 20.5,	'Latin Rock'),
        ('Guns N'' Roses''', 'Appetite for Destruction', '1987', 21.9, 'Hard rock'),
        ('Elton John', 'Goodbye Yellow Brick Road', '1973', 8.5, 'Rock, Pop Rock');
+
+SOURCE /Users/jeffreyrowe/IdeaProjects/database-exercises/select_exercises.sql;
 
 
